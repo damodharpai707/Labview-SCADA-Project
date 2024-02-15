@@ -1,4 +1,7 @@
-SCADA (Supervisory Control and Data Acquisition) is a type of industrial Control System. In visually industrial automation applications, PLC's are used to communicate between the power plant and SCADA and ECU system is a part of every vehicle of this
-generation. In this project we have developed a simulation of ECU(Electronic Control Unit) using mathematical model for designing sensors and actuators and further used microcontroller to understand the various control techniques and the capabilities of small
-scale SCADA for implementing them in real time application. A simple rotation of motor and alarm LED control scheme(which can be controlled by the LabVIEW or the micro-controller) is developed using ATMEGA16 microcontroller with simulation using Proteus8
-Professional and LabVIEW software.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UnderGrad Project Owned by Damodhar Pai
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SCADA (Supervisory Control and Data Acquisition) is a type of industrial Control System. In visually industrial automation applications, PLC's are used to communicate between the power plant and SCADA and ECU system is a part of every vehicle of this generation. 
+
+In this project we have developed a simulation of ECU(Electronic Control Unit) using mathematical model for designing sensors and actuators and further used microcontroller to understand the various control techniques and the capabilities of small scale SCADA for implementing them in real time application. A simple rotation of motor and alarm LED control scheme(which can be controlled by the LabVIEW or the micro-controller) is developed using ATMEGA16 microcontroller with simulation using Proteus8 Professional and LabVIEW software.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
