@@ -1,5 +1,5 @@
 'Supervisory Control
-'Team 1
+' Copyright(©) 2020 Damodhar Pai and team
 
 $regfile = "m16def.dat"
 $crystal = 4000000
