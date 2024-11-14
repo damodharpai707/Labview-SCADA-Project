@@ -14,7 +14,7 @@ This project demonstrates a small-scale Supervisory Control and Data Acquisition
 ## 📌Project Overview
 SCADA systems are widely used in industrial automation for remote monitoring and control, typically employing Programmable Logic Controllers (PLCs) for communication. In this project, we developed a small-scale SCADA and ECU model to monitor and control engine functions. This ECU model allows for real-time sensor monitoring and actuator control, supporting functionalities like motor rotation and alarm triggers based on sensor readings.
 
-<p align="center"> <img src="images/system_block_diagram.png" alt="System Block Diagram" width="600"> </p>
+![Logo](images/ecu1.PNG)
 
 ### Core Components:
 - Sensors: Temperature, pressure, oxygen, and throttle position sensors.
