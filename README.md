@@ -25,7 +25,7 @@ The project incorporates an ATmega16 microcontroller to simulate real-time ECU f
 
 - LabVIEW as the Control Interface: Used for sensor monitoring, alarm displays, and motor speed adjustments.
 - Proteus for Simulation: Used to create and simulate circuit connections with microcontroller and LabVIEW interface.
-<p align="center"> <img src="images/control_panel.png" alt="Control Panel Screenshot" width="500"> </p>
+![Logo](images/panelssss.PNG)
 
 ### Circuit Components
 - Sensors: Inputs include temperature, engine RPM, throttle angle, and oxygen levels.
@@ -41,14 +41,14 @@ The project is divided into two main parts:
 1. Develop sensor models in LabVIEW with graphical programming (G programming).
 2. Create circuit simulation in Proteus8 and connect to LabVIEW via virtual serial port configuration.
 3. Implement a control structure in LabVIEW for real-time monitoring and data flow between ECU and SCADA systems.
-<p align="center"> <img src="images/circuit_diagram.png" alt="Circuit Diagram" width="500"> </p>
+![Logo](images/index11111.PNG)
 
 ## ✅Results
 The system successfully demonstrates the following functionalities:
 - Basic Injection Time Monitoring: Real-time injection time adjustments based on sensor data.
 - Sensor Failure Alerts: Alerts displayed on LabVIEW when any sensor experiences a failure, such as oxygen or throttle sensor issues.
 - Motor and LED Control: Motor speed adjustments and LED alerting at high RPMs.
-<p align="center"> <img src="images/simulation_output.png" alt="Simulation Output" width="500"> </p>
+![Logo](images/sfhesfweyfgrahfgeaurvaegvfrgfre.PNG)
 
 ## 🔮Future Work
 To further enhance this project, consider:
