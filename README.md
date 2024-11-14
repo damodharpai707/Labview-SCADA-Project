@@ -1,5 +1,5 @@
-SCADA and ECU Simulation Project
-Repository: Labview-SCADA-Project
+# SCADA and ECU Simulation Project
+## Repository: Labview-SCADA-Project
 
 This project demonstrates a small-scale Supervisory Control and Data Acquisition (SCADA) system integrated with an Electronic Control Unit (ECU) model. The simulation, developed using an ATmega16 microcontroller, LabVIEW, and Proteus8, showcases a control system for monitoring and managing engine parameters and alarm controls.
 
