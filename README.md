@@ -3,14 +3,15 @@
 
 This project demonstrates a small-scale Supervisory Control and Data Acquisition (SCADA) system integrated with an Electronic Control Unit (ECU) model. The simulation, developed using an ATmega16 microcontroller, LabVIEW, and Proteus8, showcases a control system for monitoring and managing engine parameters and alarm controls.
 
-Table of Contents
-Project Overview
-System Design
-Implementation
-Results
-Future Work
-References
-Project Overview
+## Table of Contents
+1. Project Overview
+2. System Design
+3. Implementation
+4. Results
+5. Future Work
+6. References
+
+## Project Overview
 SCADA systems are widely used in industrial automation for remote monitoring and control, typically employing Programmable Logic Controllers (PLCs) for communication. In this project, we developed a small-scale SCADA and ECU model to monitor and control engine functions. This ECU model allows for real-time sensor monitoring and actuator control, supporting functionalities like motor rotation and alarm triggers based on sensor readings.
 
 <p align="center"> <img src="images/system_block_diagram.png" alt="System Block Diagram" width="500"> </p>
