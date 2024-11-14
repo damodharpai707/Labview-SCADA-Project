@@ -61,7 +61,7 @@ To further enhance this project, consider:
 2. V. M. Igure, S. A. Laughter, and R. D. Williams, Security Issues in SCADA Networks, Computers and Security, 2006.
 3. M. Avhad, V. Divekar, and H. Golatkar, Microcontroller-Based Automation System Using SCADA, IEEE INDICON, 2013.
 
-For more references and technical details, please consult the project report available in this repository.
+For more references and technical details, please consult the project report available in this repository [Github](https://github.com/damodharpai707/Labview-SCADA-Project/blob/main/SCADA%20Report/Scada%20Application%20Report.pdf).
 
 
 ### This README.md provides a structured overview and visual content that enhances the project’s presentation on GitHub. Adjust image file paths if needed, depending on your directory structure.
