@@ -63,5 +63,3 @@ To further enhance this project, consider:
 
 For more references and technical details, please consult the project report available in this repository [Github](https://github.com/damodharpai707/Labview-SCADA-Project/blob/main/SCADA%20Report/Scada%20Application%20Report.pdf).
 
-
-### This README.md provides a structured overview and visual content that enhances the project’s presentation on GitHub. Adjust image file paths if needed, depending on your directory structure.
